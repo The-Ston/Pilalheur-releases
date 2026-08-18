@@ -32,7 +32,7 @@ Android 8.0 ou plus récent.
 Elle est écrite en bas de l'écran d'accueil, sous cette forme :
 
 ```
-Pilalheur v0.1.0 (1)
+Pilalheur v0.5.0 (build 6)
 ```
 
 Le premier numéro est la version, celui entre parenthèses le numéro de build.
